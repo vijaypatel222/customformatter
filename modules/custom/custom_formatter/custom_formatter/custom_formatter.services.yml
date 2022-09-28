@@ -1,0 +1,3 @@
+services:
+  custom_formatter.cocur_slugify:
+    class: Drupal\custom_formatter\CocurSlugify
