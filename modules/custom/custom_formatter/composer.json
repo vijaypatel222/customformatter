@@ -1,0 +1,6 @@
+{   
+    "name": "drupal/custom_formatter",
+    "require": {
+        "cocur/slugify": "^4.2"
+    }
+}
