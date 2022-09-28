@@ -1,0 +1,7 @@
+field.formatter.settings.slugify_separator:
+  type: mapping
+  label: 'Slugify Separator'
+  mapping:
+    separator:
+      type: string
+      label: 'Text Separator'
